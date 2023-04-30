@@ -1,0 +1,4 @@
+canDamage = true;
+
+
+
